@@ -6,7 +6,7 @@ const Footer = () => {
             <footer id="footer">
                 <div className="container">
                     <a
-                        href="#"
+                        href="https://github.com/gitaman69/e-commerce"
                         className="repo_link"
                         target="_blank"
                         rel="noreferrer"
@@ -17,7 +17,7 @@ const Footer = () => {
                     <p>
                         Built by | &nbsp;
                         <a
-                            href="#"
+                            href="e-commerce-gamma-snowy.vercel.app"
                             target="_blank"
                             rel="noreferrer"
                         >
